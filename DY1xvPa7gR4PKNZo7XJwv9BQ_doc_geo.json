@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.741078,
+                            28.289157
+                        ],
+                        [
+                            -103.741078,
+                            35.272423
+                        ],
+                        [
+                            -87.350047,
+                            35.272423
+                        ],
+                        [
+                            -87.350047,
+                            28.289157
+                        ],
+                        [
+                            -103.741078,
+                            28.289157
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "Id": 0,
+                "map-link-tiff": null
+            }
+        }
+    ]
+}
