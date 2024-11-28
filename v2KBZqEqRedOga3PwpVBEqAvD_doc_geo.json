@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.8960927,
+                            31.5012606
+                        ],
+                        [
+                            -94.8960927,
+                            32.6455146
+                        ],
+                        [
+                            -94.1413533,
+                            32.6455146
+                        ],
+                        [
+                            -94.1413533,
+                            31.5012606
+                        ],
+                        [
+                            -94.8960927,
+                            31.5012606
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "Id": 0,
+                "map-link-tiff": "GeoIntelX/Images/Figures/v2KBZqEqRedOga3PwpVBEqAvD_Fig.png"
+            }
+        }
+    ]
+}
